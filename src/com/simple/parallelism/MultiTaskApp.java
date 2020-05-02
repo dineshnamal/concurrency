@@ -6,7 +6,9 @@ package com.simple.parallelism;
  */
 
 /**
- * True Parallelism vs Logical Parallelism True parallelism is achieved by
+ * True Parallelism vs Logical Parallelism 
+ * =======================================
+ * True parallelism is achieved by
  * assigning tasks to individual CPUs or Processors. This is possible through
  * multicore processors or executing the tasks using multiple CPUs.
  * 
